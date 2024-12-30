@@ -1,5 +1,3 @@
-MrBeast Memecoin Website
-Project Description
 The MrBeast Memecoin website is a sleek, single-page application built with Next.js and styled with Material-UI (MUI). This website serves as the official platform for the MrBeast Memecoin, providing users with all the necessary information about the coin, links to buy it, and real-time data for transactions.
 
 Features
